@@ -49,6 +49,7 @@ I am a Computer Science and Informatics Student <img src="https://media.giphy.co
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/C10743-ArtaviaM/ci01118_25a_2025/blob/main/resources/icons/ASM.svg" title="NASM" alt="NASM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
