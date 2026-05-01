@@ -65,13 +65,15 @@ I am a Computer Science and Informatics Student <img src="https://media.giphy.co
 ---
 
 ### :fire: My Stats :
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=C10743-ArtaviaM&show_icons=true&theme=vision-friendly-dark)](https://github.com/mauArtavia)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C10743-ArtaviaM&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=C10743-ArtaviaM&show_icons=true&theme=vision-friendly-dark" height="150"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=C10743-ArtaviaM&theme=dark&background=000000" height="150"/>
+</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C10743-ArtaviaM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C10743-ArtaviaM&layout=compact&theme=vision-friendly-dark)](https://github.com/C10743-ArtaviaM)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C10743-ArtaviaM&layout=compact&theme=vision-friendly-dark" height="200"/>
+</p>
 
 <!-- ### Hi there 👋
 
